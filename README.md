@@ -39,7 +39,22 @@ This project analyzes Diwali sales data to understand customer purchasing behavi
 * Dropped unnecessary columns
 * Standardized categorical data
 
----
+
+## 📊 Gender-wise Sales Distribution
+
+![Gender Analysis](./Gender_analysis.png)
+
+### 🔍 Insight
+- Female customers (7832) significantly outnumber male customers (3407)
+- Females contribute ~70% of total customers
+- Indicates strong female dominance in purchasing behavior during Diwali sales
+
+### 💡 Business Impact
+- Focus marketing campaigns on female customers
+- Design targeted festive offers for women
+- Optimize product categories preferred by female buyers
+
+---------------------------------------
 
 ## 📊 Key Insights
 
